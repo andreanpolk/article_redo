@@ -1,0 +1,45 @@
+
+@fontface {
+	font-family: marvv;
+	src: url(../fonts/marvvis.otf);
+}
+
+#jmtitle {
+	font-family: marvv;
+	font-size: 30px;
+	color: #CB4335;
+	text-align: center;
+	height: 30px;
+	width: 700px;
+	
+}
+.titlesbox {
+	height: 100px;
+	width: 900px;
+	padding: 50px;
+
+}
+
+#jonicover {
+text-align: center;
+
+}
+#subjmt {
+	height: 20;
+	color: #5D6D4E;
+	font-family:marvv;
+	text-align:center;
+
+}
+#bodytext1 {
+ height: 2000px;
+ width: 800px;
+ padding: 10px;
+ color:#BC8F8F;
+ text-align: left;
+ line height: 30px;
+ position: absolute;
+ left:200px;
+ top: 1000px;
+
+}
